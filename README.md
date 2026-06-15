@@ -82,4 +82,4 @@ A manual mobile testing project for the **SauceLabs Demo App** (Android), coveri
 
 **Nguyen Hoang Lam Tan**  
 QA Tester | Software Engineering Graduate  
-🔗 [GitHub](https://github.com/nhlamtan) | 📧 [LinkedIn](https://www.linkedin.com/in/tan-nguyen-hoang-lam-7a35233b5/)
+🔗 [GitHub](https://github.com/nhlamtan) | 📧 [LinkedIn](https://www.linkedin.com/in/lam-tan/)
